@@ -1,0 +1,15 @@
+{
+  "agenda": [
+    "Node",
+    "Express - Why are we using it?",
+
+
+    "What is Node?  What even is a 'server'? What is Node's place in the server landscape?",
+    "Node as an HTTP server - HTTP/Internet",
+    "Hello, World!",
+    "Intro to NPM and modules",
+    "Express",
+    "Middleware",
+    "Express Endpoints"
+  ]
+}
